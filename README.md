@@ -1,16 +1,16 @@
 👋 Hi, I’m @Wajeeshani
 
 👀 I’m interested in:
-- Machine Learning
+- Data Engineering
 - Data Science
 - Data Analytics
 
-🌱 I’m currently learning:
-- Machine Learning with Python
+🌱 I’m currently learning for:
+- Microsoft Certified Fabric Data Engineer
 
 💞️ I’m looking to collaborate on:
 - Open source contributions
-- Data science projects
+- Data Engineering projects
 
 📫 How to reach me:
 - Email: wajeeshani@gmail.com
